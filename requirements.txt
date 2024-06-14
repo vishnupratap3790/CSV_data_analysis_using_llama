@@ -1,0 +1,8 @@
+streamlit
+streamlit_chat
+streamlit_option_menu
+pandas
+torch
+transformers
+matplotlib
+seaborn
